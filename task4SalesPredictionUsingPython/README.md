@@ -3,6 +3,7 @@
 Sales prediction is a pivotal aspect of any business, and I'm thrilled to share the journey of my recent project where i harnessed the power of data science and machine learning to forecast sales. I predict sales based on various factors like advertising expenditure and advertising platform selection.
 
 Kaggle Data Set Link: https://www.kaggle.com/datasets/ashydv/advertising-dataset
+
 🔍 Here's a glimpse of what i've accomplished:
 
 👩‍💻 Data Preparation:
@@ -16,7 +17,7 @@ I conducted an in-depth exploration of the dataset, which revealed:
 No missing values
 Unique values for each feature
 
-📊 Data Analysis:
+📊 Exploratory Data Analysis:
 I performed exploratory data analysis (EDA) to understand relationships and outliers. Notably, i found:
 
 A strong linear relationship between TV and Sales
